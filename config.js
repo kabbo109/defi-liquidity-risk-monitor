@@ -1,0 +1,5 @@
+module.exports = {
+  NETWORK: "Ethereum",
+  VOLATILITY_THRESHOLD: 0.6,
+  LIQUIDITY_THRESHOLD: 50000
+};
