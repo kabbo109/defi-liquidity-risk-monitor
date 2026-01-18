@@ -1,0 +1,13 @@
+{
+  "name": "defi-liquidity-risk-monitor",
+  "version": "1.0.0",
+  "description": "Advanced DeFi liquidity and protocol risk monitoring tool",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "web3": "^4.0.0"
+  },
+  "license": "MIT"
+}
